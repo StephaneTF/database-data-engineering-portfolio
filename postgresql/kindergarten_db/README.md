@@ -8,7 +8,7 @@ The project demonstrates relational database design, table relationships, constr
 
 The ERD represents the original database design.
 
-![Kindergarten Database ERD](kindergarten_db_ERD.png)
+![Kindergarten Database ERD](Kindergarten_db_ERD.png)
 
 ## Project Files
 
